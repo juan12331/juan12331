@@ -4,6 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1795cc&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Juan+Miguel;:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Juan12331&show_icons=true&count_private=true&hide_border=true&title_color=1795cc&icon_color=1795cc&text_color=c9d1d9&bg_color=0d1117" alt="Juan github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Juan12331&show_icons=true&count_private=true&hide_border=true&title_color=1795cc&icon_color=1795cc&text_color=c9d1d9&bg_color=0d1117" alt="status do github de Juan12331" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan12331&layout=compact&hide_border=true&title_color=1795cc&text_color=1795cc&bg_color=0d1117" />
 </div>
